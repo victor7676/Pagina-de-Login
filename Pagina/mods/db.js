@@ -1,3 +1,5 @@
+let db;
+
 // Abrindo o banco de dados
 var request = window.indexedDB.open("DBteste", 3);
 // Abrindo o banco de dados
